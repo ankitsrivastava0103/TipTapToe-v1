@@ -7,7 +7,7 @@ Game Rules:
 4. Select all the cells which had fishes and click- GO!
 5. Honey, you can't afford to make too many mistakes!
 
-Telugu translation by Vineet:
+Telugu translation by Vineet Sagar:
 
 గేమ్ నియమాలు:
 
